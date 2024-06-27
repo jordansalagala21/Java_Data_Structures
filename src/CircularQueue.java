@@ -2,6 +2,7 @@ public class CircularQueue {
     private int Qarr[] = new int[5];
     private int front;
     private int rear;
+    @SuppressWarnings("unused")
     private int trash;
 
 
